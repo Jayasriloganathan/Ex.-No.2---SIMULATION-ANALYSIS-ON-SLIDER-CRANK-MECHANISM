@@ -45,9 +45,17 @@
 
 ## Output
 
+MechAnalyzer Graph
+<img width="1366" height="854" alt="image" src="https://github.com/user-attachments/assets/d445dcf2-551a-420e-a193-f8df7749b038" />
 
-### Name:
-### Register Number: 
+
+VAD, IC and SFA module
+
+
+<img width="1325" height="829" alt="image" src="https://github.com/user-attachments/assets/2e239d05-018e-4030-82ad-4cf0fb919496" />
+
+### Name: JAYASRI L
+### Register Number: 212224040136
 
 ## RESULT:
 ### Thus the displacement & velocity analysis for the given four bar chain mechanism is simulated.
